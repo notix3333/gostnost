@@ -22,7 +22,7 @@
 @Skill Installer install notix3333/gostnost from github
 
 ## Usage 
-typical prompt: "Создай отчет, файл к практической, скриншоты к работе" 
+typical prompt: "Создай отчет, прикрепляю файл к практической и скриншоты к работе" 
 
 
 
