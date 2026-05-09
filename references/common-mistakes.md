@@ -1,0 +1,23 @@
+# Common Mistakes
+
+- Title page was changed structurally or visually.
+- Title page was recreated instead of using the protected template.
+- Work type, discipline, topic, student name, group, teacher, variant, or date was invented.
+- Goal of work is missing.
+- Conclusion is missing.
+- Goal and conclusion do not correspond.
+- Screenshots are cropped.
+- Screenshots are distorted or unreadable after scaling.
+- Figures are inserted without text references.
+- Figure captions use a hyphen instead of the required dash.
+- Tables have no titles.
+- Tables are inserted as pictures.
+- Tables have no header rows.
+- A section ends with a figure, table, or list.
+- Bibliography is missing when sources are used.
+- In-text source references are missing.
+- Conversational style is used.
+- Theory is added when the assignment does not require it.
+- Generic heading `Ход работы` is used instead of meaningful section names.
+- The report does not follow the attached guide.
+- GOST baseline requirements are ignored.
